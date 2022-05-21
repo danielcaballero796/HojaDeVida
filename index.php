@@ -695,7 +695,7 @@
 
                         <div class="col-md-2">
                             <h3>Mobile</h3><br>
-                            <img src="./img/skills/flutter.png" width="40" alt="">
+                            <!-- <img src="./img/skills/flutter.png" width="40" alt=""> -->
                             <img src="./img/skills/react.png" width="40" alt="">
                             <!--<img src="./img/skills/kotlin.png" width="40" alt="">-->
                         </div>
