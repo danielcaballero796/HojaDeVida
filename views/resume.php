@@ -44,6 +44,18 @@
                 <li class='timeline-header'>
                     <h4 id="myResume7">Experience</h4>
                 </li>
+                <li class="inverse">
+                    <div class='timeline-desc'>
+                        <h4 id="myResume26">2018 - Currently</h4>
+                    </div>
+                    <div class='timeline-content'>
+                        <h4 id="myResume27">Freelancer</h4>
+                        <span id="myResume28">Nortcoding</span>
+                        <p id="myResume29">
+                            Freelancer
+                        </p>
+                    </div>
+                </li>
                 <li>
                     <div class='timeline-desc'>
                         <h4>2018-2019</h4>
@@ -58,7 +70,7 @@
                 </li>
                 <li class="inverse">
                     <div class='timeline-desc'>
-                        <h4>2020</h4>
+                        <h4 id="myResume30">2020 Jan|Sep</h4>
                     </div>
                     <div class='timeline-content'>
                         <h4 id="myResume10">Web Programmer</h4>
@@ -82,12 +94,36 @@
                 </li>
                 <li class="inverse">
                     <div class='timeline-desc'>
-                        <h4 id="myResume22">2022 - Currently</h4>
+                        <h4 id="myResume22">2020 Dec - 2022 Jun</h4>
                     </div>
                     <div class='timeline-content'>
-                        <h4 id="myResume23">Current Work</h4>
-                        <span id="myResume24">Software Engineer at Universidad Francisco de Paula Santander</span>
+                        <h4 id="myResume23">Full-Stack Software Engineer</h4>
+                        <span id="myResume24">Full-Stack Software Engineer at Universidad Francisco de Paula Santander</span>
                         <p id="myResume25">
+                            Full-time contract.
+                        </p>
+                    </div>
+                </li>
+                <li>
+                    <div class='timeline-desc'>
+                        <h4 id="myResume31">2021 Sep - 2022 Sep</h4>
+                    </div>
+                    <div class='timeline-content'>
+                        <h4 id="myResume32">Freelancer</h4>
+                        <span id="myResume33">Cámara de Comercio de Cúcuta</span>
+                        <p id="myResume34">
+                            Freelancer
+                        </p>
+                    </div>
+                </li>
+                <li class="inverse">
+                    <div class='timeline-desc'>
+                        <h4 id="myResume35">2022 Jun - Currently</h4>
+                    </div>
+                    <div class='timeline-content'>
+                        <h4 id="myResume36">Current Work</h4>
+                        <span id="myResume37">Development Analyst</span>
+                        <p id="myResume38">
                             Full-time contract.
                         </p>
                     </div>

@@ -71,12 +71,25 @@ function ingles() {
         "Soccer",
         "My Skills",
         "Software Engineer",
-        "2020 - Sep-Dec",
+        "2020 - Sep|Dec",
         "Norsoft S.A.S.",
-        "2022 - Currently",
+        "2020 Dec - 2022 Jun",
+        "Full-Stack Software Engineer",
+        "Full-Stack Software Engineer at Universidad Francisco de Paula Santander.",
+        "Full-time contract.",
+        "2018 - Currently",
+        "Freelancer",
+        "Nortcoding",
+        "Freelancer",
+        "2020 Jan|Sep",
+        "2021 Sep - 2022 Sep",
+        "Freelancer",
+        "Cámara de Comercio de Cúcuta",
+        "Freelancer",
+        "2022 Jun - Currently",
         "Current Work",
-        "Software Engineer at Universidad Francisco de Paula Santander.",
-        "Full-time contract.", //25
+        "Development Analyst",
+        "Full-time contract.",//38
     ];
 
     //For Variable aboutMe
@@ -209,12 +222,25 @@ function español() {
         "Fútbol",
         "Mis Habilidades",
         "Ingeniero de software",
-        "2020 - Set-Dic",
+        "2020 - Sep|Dic",
         "Norsoft S.A.S.",
-        "2022 - Actualmente",
+        "2020 Dic - 2022 Jun",
+        "Ingeniero de software Full-Stack",
+        "Ingeniero de software Full-Stack en Universidad Francisco de Paula Santander",
+        "Contrato Tiempo Completo", 
+        "2018 - Actualmente",
+        "Independiente",
+        "Nortcoding",
+        "Independiente", 
+        "2020 Ene|Sep",
+        "2021 Sep - 2022 Sep",
+        "Independiente",
+        "Cámara de Comercio de Cúcuta",
+        "Independiente",
+        "2022 Jun - Actualmente",
         "Trabajo Actual",
-        "Ingeniero de software en Universidad Francisco de Paula Santander",
-        "Contrato Tiempo Completo", //25
+        "Analista de Desarrollo",
+        "Contrato Tiempo Completo",//38
     ];
 
     //For Variable aboutMe

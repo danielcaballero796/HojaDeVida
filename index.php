@@ -56,7 +56,7 @@
     <script src='js/jquery.magnific-popup.min.js'></script>
     <script src='js/validator.min.js'></script>
     <script src='js/smoothscroll.js'></script>
-    <script src='js/languages.js'></script>
+    <script src='js/languages.js?v=<?= md5_file('js/languages.js');?>'></script>
 </body>
 
 </html>
