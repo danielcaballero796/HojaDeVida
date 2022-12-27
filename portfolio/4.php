@@ -57,7 +57,7 @@
 
                     <div class='col-md-8'>
 
-                        <img src='../img/portfolio/15.jpg' alt='symp'>
+                        <img src='../img/portfolio/4.jpg' alt='symp'>
 
                     </div>
 
@@ -70,7 +70,15 @@
 
                                 <h4><i class='ion-ionic'></i>To:</h4>
 
-                                <p>NortCoding | SMS 2.0</p>
+                                <p>College</p>
+
+                            </li>
+
+                            <li>
+
+                                <h4><i class="ion-ios-people"></i>Colleagues:</h4>
+
+                                <p>Gerson Guerrero and Andres Rodriguez</p>
 
                             </li>
 
@@ -78,7 +86,7 @@
 
                                 <h4><i class='ion-ios-calendar-outline'></i>Date</h4>
 
-                                <p>2021, Aug</p>
+                                <p>2017, Dec</p>
 
                             </li>
 
@@ -88,7 +96,7 @@
 
                                 <h4><i class='ion-ios-clock-outline'></i>Time Taken</h4>
 
-                                <p>8 Weeks</p>
+                                <p>6 Weeks</p>
 
                             </li>
 
@@ -113,7 +121,7 @@
                         <h4>Info</h4>
 
                         <p>
-                            In this new version NortCoding | SMS It's a platform which allows the sending of SMS messages consuming Wompi API services of Bancolombia to have a payment gateway available in the shopping section, also is available as EndPoint for use as API in other applications
+                            SAT is a system of management of turns for the dependences of the university francisco de paula santander, is made in php with the framework of Laravel and API REST.
                         </p>
 
                     </div>
@@ -146,11 +154,6 @@
                             <li>
                                 <a href='https://www.linkedin.com/in/danielcaballero796'>
                                     <i class='ion-social-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href='https://www.instagram.com/itsdan_cs'>
-                                    <i class='ion-social-instagram'></i>
                                 </a>
                             </li>
                         </ul>

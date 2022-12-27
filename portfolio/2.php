@@ -148,11 +148,6 @@
                                     <i class='ion-social-linkedin'></i>
                                 </a>
                             </li>
-                            <li>
-                                <a href='https://www.instagram.com/itsdan_cs'>
-                                    <i class='ion-social-instagram'></i>
-                                </a>
-                            </li>
                         </ul>
                     </div>
 

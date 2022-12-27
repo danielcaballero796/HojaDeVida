@@ -57,7 +57,7 @@
 
                     <div class='col-md-8'>
 
-                        <img src='../img/portfolio/11.jpg' alt='symp'>
+                        <img src='../img/portfolio/13.jpg' alt='symp'>
 
                     </div>
 
@@ -70,7 +70,7 @@
 
                                 <h4><i class='ion-ionic'></i>To:</h4>
 
-                                <p>I.E. Innovar</p>
+                                <p>Coopvigsan</p>
 
                             </li>
 
@@ -78,7 +78,7 @@
 
                                 <h4><i class="ion-ios-people"></i>Colleagues:</h4>
 
-                                <p>Jeferson Hernandez, Edward Martinez, Diego Carrascal</p>
+                                <p>Edward Martinez</p>
 
                             </li>
 
@@ -86,7 +86,7 @@
 
                                 <h4><i class='ion-ios-calendar-outline'></i>Date</h4>
 
-                                <p>2021, Mar</p>
+                                <p>2021, Aug</p>
 
                             </li>
 
@@ -96,7 +96,7 @@
 
                                 <h4><i class='ion-ios-clock-outline'></i>Time Taken</h4>
 
-                                <p>7 Months</p>
+                                <p>4 Weeks</p>
 
                             </li>
 
@@ -121,7 +121,7 @@
                         <h4>Info</h4>
 
                         <p>
-                            This is a platform for the management and administration of students and teachers of school cycles as well as managing all items of the institution.
+                            It consists of a web platform to publicize all the services of the company Coopvigsan as well as its ideals and more information about it.
                         </p>
 
                     </div>
@@ -154,11 +154,6 @@
                             <li>
                                 <a href='https://www.linkedin.com/in/danielcaballero796'>
                                     <i class='ion-social-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href='https://www.instagram.com/itsdan_cs'>
-                                    <i class='ion-social-instagram'></i>
                                 </a>
                             </li>
                         </ul>

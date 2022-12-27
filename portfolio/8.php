@@ -57,7 +57,7 @@
 
                     <div class='col-md-8'>
 
-                        <img src='../img/portfolio/1.jpg' alt='symp'>
+                        <img src='../img/portfolio/8.jpg' alt='symp'>
 
                     </div>
 
@@ -78,7 +78,7 @@
 
                                 <h4><i class='ion-ios-calendar-outline'></i>Date</h4>
 
-                                <p>2018, June</p>
+                                <p>2020, Jul</p>
 
                             </li>
 
@@ -91,10 +91,6 @@
                                 <p>3 Weeks</p>
 
                             </li>
-
-
-
-
 
 
                         </ul>
@@ -113,7 +109,7 @@
                         <h4>Info</h4>
 
                         <p>
-                            Cuenta Conmigo is a project for the management of the advising of a teacher of the university francisco de paula santander, is made in php with the framework of Laravel.
+                            SmartCost is a responsive application to keep track of all your daily expenses, and have a better control of your capital as well as reminders. Elaborated with a framework called Anarchy
                         </p>
 
                     </div>
@@ -146,11 +142,6 @@
                             <li>
                                 <a href='https://www.linkedin.com/in/danielcaballero796'>
                                     <i class='ion-social-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href='https://www.instagram.com/itsdan_cs'>
-                                    <i class='ion-social-instagram'></i>
                                 </a>
                             </li>
                         </ul>

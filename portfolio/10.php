@@ -38,7 +38,7 @@
 
 
     <!--preloader-->
-    <!-- <div id='preloader'>
+    <!--     <div id='preloader'>
 
         <div class='loader'>
             <img src='../img/load.gif' alt='symp'>
@@ -57,7 +57,7 @@
 
                     <div class='col-md-8'>
 
-                        <img src='../img/portfolio/8.jpg' alt='symp'>
+                        <img src='../img/portfolio/10.jpg' height="400" alt='symp'>
 
                     </div>
 
@@ -78,7 +78,7 @@
 
                                 <h4><i class='ion-ios-calendar-outline'></i>Date</h4>
 
-                                <p>2020, Jul</p>
+                                <p>2020, June</p>
 
                             </li>
 
@@ -88,7 +88,7 @@
 
                                 <h4><i class='ion-ios-clock-outline'></i>Time Taken</h4>
 
-                                <p>3 Weeks</p>
+                                <p>1 Weeks</p>
 
                             </li>
 
@@ -109,7 +109,8 @@
                         <h4>Info</h4>
 
                         <p>
-                            SmartCost is a responsive application to keep track of all your daily expenses, and have a better control of your capital as well as reminders. Elaborated with a framework called Anarchy
+                            Question Form for a Vocational Test elaborated with the Electron.JS framework which is a framework to create native applications with web technologies such as JavaScript, HTML and CSS. It takes care of the hard parts so you can concentrate on the core
+                            of your application.
                         </p>
 
                     </div>
@@ -142,11 +143,6 @@
                             <li>
                                 <a href='https://www.linkedin.com/in/danielcaballero796'>
                                     <i class='ion-social-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href='https://www.instagram.com/itsdan_cs'>
-                                    <i class='ion-social-instagram'></i>
                                 </a>
                             </li>
                         </ul>

@@ -57,7 +57,7 @@
 
                     <div class='col-md-8'>
 
-                        <img src='../img/portfolio/14.jpg' alt='symp'>
+                        <img src='../img/portfolio/6.jpg' alt='symp'>
 
                     </div>
 
@@ -70,15 +70,7 @@
 
                                 <h4><i class='ion-ionic'></i>To:</h4>
 
-                                <p>SMB Security LTDA</p>
-
-                            </li>
-
-                            <li>
-
-                                <h4><i class="ion-ios-people"></i>Colleagues:</h4>
-
-                                <p>Jeferson Hernandez, Edward Martinez</p>
+                                <p>Valzu</p>
 
                             </li>
 
@@ -86,7 +78,7 @@
 
                                 <h4><i class='ion-ios-calendar-outline'></i>Date</h4>
 
-                                <p>2022, Jan</p>
+                                <p>2017, Aug</p>
 
                             </li>
 
@@ -96,7 +88,7 @@
 
                                 <h4><i class='ion-ios-clock-outline'></i>Time Taken</h4>
 
-                                <p>2 Months</p>
+                                <p>5 Weeks</p>
 
                             </li>
 
@@ -121,7 +113,7 @@
                         <h4>Info</h4>
 
                         <p>
-                            The platform for the SMB company consists of managing all the work of the safety inspectors in order to keep track of it and to be able to generate controls and statistics as needed.
+                            It is a system that allows the management of inventory of the footwear company Valzu, made with the pattern MVC.
                         </p>
 
                     </div>
@@ -154,11 +146,6 @@
                             <li>
                                 <a href='https://www.linkedin.com/in/danielcaballero796'>
                                     <i class='ion-social-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href='https://www.instagram.com/itsdan_cs'>
-                                    <i class='ion-social-instagram'></i>
                                 </a>
                             </li>
                         </ul>

@@ -57,7 +57,7 @@
 
                     <div class='col-md-8'>
 
-                        <img src='../img/portfolio/9.jpg' alt='symp'>
+                        <img src='../img/portfolio/15.jpg' alt='symp'>
 
                     </div>
 
@@ -70,7 +70,7 @@
 
                                 <h4><i class='ion-ionic'></i>To:</h4>
 
-                                <p>College</p>
+                                <p>NortCoding | SMS 2.0</p>
 
                             </li>
 
@@ -78,7 +78,7 @@
 
                                 <h4><i class='ion-ios-calendar-outline'></i>Date</h4>
 
-                                <p>2020, June</p>
+                                <p>2021, Aug</p>
 
                             </li>
 
@@ -88,9 +88,13 @@
 
                                 <h4><i class='ion-ios-clock-outline'></i>Time Taken</h4>
 
-                                <p>2 Weeks</p>
+                                <p>8 Weeks</p>
 
                             </li>
+
+
+
+
 
 
                         </ul>
@@ -109,7 +113,7 @@
                         <h4>Info</h4>
 
                         <p>
-                            SuLugar is a small system to manage a parking lot elaborated with ASP.NET Core to know a little more about Microsoft's web architecture
+                            In this new version NortCoding | SMS It's a platform which allows the sending of SMS messages consuming Wompi API services of Bancolombia to have a payment gateway available in the shopping section, also is available as EndPoint for use as API in other applications
                         </p>
 
                     </div>
@@ -142,11 +146,6 @@
                             <li>
                                 <a href='https://www.linkedin.com/in/danielcaballero796'>
                                     <i class='ion-social-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href='https://www.instagram.com/itsdan_cs'>
-                                    <i class='ion-social-instagram'></i>
                                 </a>
                             </li>
                         </ul>

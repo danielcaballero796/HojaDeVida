@@ -57,7 +57,7 @@
 
                     <div class='col-md-8'>
 
-                        <img src='../img/portfolio/4.jpg' alt='symp'>
+                        <img src='../img/portfolio/14.jpg' alt='symp'>
 
                     </div>
 
@@ -70,7 +70,7 @@
 
                                 <h4><i class='ion-ionic'></i>To:</h4>
 
-                                <p>College</p>
+                                <p>SMB Security LTDA</p>
 
                             </li>
 
@@ -78,7 +78,7 @@
 
                                 <h4><i class="ion-ios-people"></i>Colleagues:</h4>
 
-                                <p>Gerson Guerrero and Andres Rodriguez</p>
+                                <p>Jeferson Hernandez, Edward Martinez</p>
 
                             </li>
 
@@ -86,7 +86,7 @@
 
                                 <h4><i class='ion-ios-calendar-outline'></i>Date</h4>
 
-                                <p>2017, Dec</p>
+                                <p>2022, Jan</p>
 
                             </li>
 
@@ -96,7 +96,7 @@
 
                                 <h4><i class='ion-ios-clock-outline'></i>Time Taken</h4>
 
-                                <p>6 Weeks</p>
+                                <p>2 Months</p>
 
                             </li>
 
@@ -121,7 +121,7 @@
                         <h4>Info</h4>
 
                         <p>
-                            SAT is a system of management of turns for the dependences of the university francisco de paula santander, is made in php with the framework of Laravel and API REST.
+                            The platform for the SMB company consists of managing all the work of the safety inspectors in order to keep track of it and to be able to generate controls and statistics as needed.
                         </p>
 
                     </div>
@@ -154,11 +154,6 @@
                             <li>
                                 <a href='https://www.linkedin.com/in/danielcaballero796'>
                                     <i class='ion-social-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href='https://www.instagram.com/itsdan_cs'>
-                                    <i class='ion-social-instagram'></i>
                                 </a>
                             </li>
                         </ul>

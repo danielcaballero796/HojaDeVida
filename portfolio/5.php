@@ -57,7 +57,7 @@
 
                     <div class='col-md-8'>
 
-                        <img src='../img/portfolio/3.jpg' alt='symp'>
+                        <img src='../img/portfolio/5.jpg' alt='symp'>
 
                     </div>
 
@@ -70,7 +70,7 @@
 
                                 <h4><i class='ion-ionic'></i>To:</h4>
 
-                                <p>College</p>
+                                <p>Personal</p>
 
                             </li>
 
@@ -78,7 +78,7 @@
 
                                 <h4><i class='ion-ios-calendar-outline'></i>Date</h4>
 
-                                <p>2017, June</p>
+                                <p>2018, Feb</p>
 
                             </li>
 
@@ -88,7 +88,7 @@
 
                                 <h4><i class='ion-ios-clock-outline'></i>Time Taken</h4>
 
-                                <p>6 Weeks</p>
+                                <p>4 Weeks</p>
 
                             </li>
 
@@ -113,7 +113,7 @@
                         <h4>Info</h4>
 
                         <p>
-                            It is a project which resembles the GrandSlam tournament system in which all the registration of matches, players and referees can be done with the MVC pattern.
+                            SoonPay as its name says is a system for the control of money loans and their respective update of the clients elaborated with the Laravel Framework.
                         </p>
 
                     </div>
@@ -146,11 +146,6 @@
                             <li>
                                 <a href='https://www.linkedin.com/in/danielcaballero796'>
                                     <i class='ion-social-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href='https://www.instagram.com/itsdan_cs'>
-                                    <i class='ion-social-instagram'></i>
                                 </a>
                             </li>
                         </ul>

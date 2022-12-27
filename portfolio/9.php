@@ -57,7 +57,7 @@
 
                     <div class='col-md-8'>
 
-                        <img src='../img/portfolio/12.jpg' alt='symp'>
+                        <img src='../img/portfolio/9.jpg' alt='symp'>
 
                     </div>
 
@@ -70,15 +70,7 @@
 
                                 <h4><i class='ion-ionic'></i>To:</h4>
 
-                                <p>AgasPremium</p>
-
-                            </li>
-
-                            <li>
-
-                                <h4><i class="ion-ios-people"></i>Colleagues:</h4>
-
-                                <p>Jeferson Hernandez, Edward Martinez</p>
+                                <p>College</p>
 
                             </li>
 
@@ -86,7 +78,7 @@
 
                                 <h4><i class='ion-ios-calendar-outline'></i>Date</h4>
 
-                                <p>2021, Jun</p>
+                                <p>2020, June</p>
 
                             </li>
 
@@ -96,13 +88,9 @@
 
                                 <h4><i class='ion-ios-clock-outline'></i>Time Taken</h4>
 
-                                <p>6 Months</p>
+                                <p>2 Weeks</p>
 
                             </li>
-
-
-
-
 
 
                         </ul>
@@ -121,7 +109,7 @@
                         <h4>Info</h4>
 
                         <p>
-                            This is a platform for the company's services, personnel administration and work assigned to the same as well as the management of all the items of the institution.
+                            SuLugar is a small system to manage a parking lot elaborated with ASP.NET Core to know a little more about Microsoft's web architecture
                         </p>
 
                     </div>
@@ -154,11 +142,6 @@
                             <li>
                                 <a href='https://www.linkedin.com/in/danielcaballero796'>
                                     <i class='ion-social-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href='https://www.instagram.com/itsdan_cs'>
-                                    <i class='ion-social-instagram'></i>
                                 </a>
                             </li>
                         </ul>

@@ -1,19 +1,10 @@
 <!DOCTYPE html>
 <html class='no-js'>
-
 <head>
-
-
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-
     <title>Daniel Caballero</title>
-
-    <!--[if lt IE 9]>
-		  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
     <link rel="shortcut icon" href="../img/Logodan2.png" type="image/x-icon" />
     <link rel='stylesheet' type='text/css' href='../bootstrap/css/bootstrap.min.css'>
     <link rel='stylesheet' type='text/css' href='../css/ionicons.min.css'>
@@ -22,149 +13,51 @@
     <link rel='stylesheet' type='text/css' href='../css/owl.transitions.css'>
     <link rel='stylesheet' type='text/css' href='../css/style.css'>
     <link rel='stylesheet' type='text/css' href='../css/color-default.css'>
-
-
 </head>
-
 <body>
-
 
     <!--close button-->
     <a href='../index.php' class='close-btn'>
         <span></span>
         <span></span>
     </a>
-    <!--/close button-->
-
-
-    <!--preloader-->
-    <!-- <div id='preloader'>
-
-        <div class='loader'>
-            <img src='../img/load.gif' alt='symp'>
-        </div>
-
-    </div> -->
-
     <div id='wrapper'>
-
         <section class='single-work'>
-
             <div class='container'>
-
-
                 <div class='row'>
-
                     <div class='col-md-8'>
-
-                        <img src='../img/portfolio/6.jpg' alt='symp'>
-
+                        <img src='../img/portfolio/1.jpg' alt='symp'>
                     </div>
-
-
                     <div class='col-md-4'>
-
                         <ul class='work-info'>
-
                             <li>
-
                                 <h4><i class='ion-ionic'></i>To:</h4>
-
-                                <p>Valzu</p>
-
+                                <p>Personal</p>
                             </li>
-
                             <li>
-
                                 <h4><i class='ion-ios-calendar-outline'></i>Date</h4>
-
-                                <p>2017, Aug</p>
-
+                                <p>2018, June</p>
                             </li>
-
-
 
                             <li>
-
                                 <h4><i class='ion-ios-clock-outline'></i>Time Taken</h4>
-
-                                <p>5 Weeks</p>
-
+                                <p>3 Weeks</p>
                             </li>
-
-
-
-
-
-
                         </ul>
-
                     </div>
-
-
-
                 </div>
-
 
                 <div class='work-content'>
-
                     <div class='block'>
-
                         <h4>Info</h4>
-
                         <p>
-                            It is a system that allows the management of inventory of the footwear company Valzu, made with the pattern MVC.
+                            Cuenta Conmigo is a project for the management of the advising of a teacher of the university francisco de paula santander, is made in php with the framework of Laravel.
                         </p>
-
                     </div>
-
                 </div>
-
-
             </div>
-
         </section>
-
-
-        <div class='footer bg-lightgray section-block'>
-
-            <div class='container'>
-
-                <div class='row'>
-
-                    <div class='col-xs-6 text-left'>
-                        <h4>Daniel Caballero</h4>
-                    </div>
-
-                    <div class='col-xs-6 text-right'>
-                        <ul class='footer-social'>
-                            <li>
-                                <a href='https://github.com/danielcaballero796'>
-                                    <i class='ion-social-github'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href='https://www.linkedin.com/in/danielcaballero796'>
-                                    <i class='ion-social-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href='https://www.instagram.com/itsdan_cs'>
-                                    <i class='ion-social-instagram'></i>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
-
-                </div>
-
-
-            </div>
-
-        </div>
-
-
-
+        <?php require_once("./templates/footer.php") ?>
     </div>
 
     <script src='../js/jquery.min.js'></script>

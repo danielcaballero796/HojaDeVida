@@ -38,7 +38,7 @@
 
 
     <!--preloader-->
-    <!--     <div id='preloader'>
+    <!-- <div id='preloader'>
 
         <div class='loader'>
             <img src='../img/load.gif' alt='symp'>
@@ -57,7 +57,7 @@
 
                     <div class='col-md-8'>
 
-                        <img src='../img/portfolio/10.jpg' height="400" alt='symp'>
+                        <img src='../img/portfolio/3.jpg' alt='symp'>
 
                     </div>
 
@@ -70,7 +70,7 @@
 
                                 <h4><i class='ion-ionic'></i>To:</h4>
 
-                                <p>Personal</p>
+                                <p>College</p>
 
                             </li>
 
@@ -78,7 +78,7 @@
 
                                 <h4><i class='ion-ios-calendar-outline'></i>Date</h4>
 
-                                <p>2020, June</p>
+                                <p>2017, June</p>
 
                             </li>
 
@@ -88,9 +88,13 @@
 
                                 <h4><i class='ion-ios-clock-outline'></i>Time Taken</h4>
 
-                                <p>1 Weeks</p>
+                                <p>6 Weeks</p>
 
                             </li>
+
+
+
+
 
 
                         </ul>
@@ -109,8 +113,7 @@
                         <h4>Info</h4>
 
                         <p>
-                            Question Form for a Vocational Test elaborated with the Electron.JS framework which is a framework to create native applications with web technologies such as JavaScript, HTML and CSS. It takes care of the hard parts so you can concentrate on the core
-                            of your application.
+                            It is a project which resembles the GrandSlam tournament system in which all the registration of matches, players and referees can be done with the MVC pattern.
                         </p>
 
                     </div>
@@ -143,11 +146,6 @@
                             <li>
                                 <a href='https://www.linkedin.com/in/danielcaballero796'>
                                     <i class='ion-social-linkedin'></i>
-                                </a>
-                            </li>
-                            <li>
-                                <a href='https://www.instagram.com/itsdan_cs'>
-                                    <i class='ion-social-instagram'></i>
                                 </a>
                             </li>
                         </ul>
